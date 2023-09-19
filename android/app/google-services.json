@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354177003085",
+    "project_id": "padtracker-9b66a",
+    "storage_bucket": "padtracker-9b66a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354177003085:android:807fa98c17acf99d107604",
+        "android_client_info": {
+          "package_name": "com.example.pad_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354177003085-4ev9st5i1fkj7ma3nkkl5oh88a2mcn3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNcTfZbvPiP-8lf4o_xA8Zw28ZSRys1Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354177003085-4ev9st5i1fkj7ma3nkkl5oh88a2mcn3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
